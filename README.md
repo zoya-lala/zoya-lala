@@ -41,6 +41,12 @@ Feel free to explore more in my repositories!
 
 ---
 
+## GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoya-lala&layout=compact&theme=radical)
+
+---
+
 ## Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://linkedin.com/in/zoya-lala)
