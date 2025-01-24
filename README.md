@@ -1,6 +1,6 @@
 # Hi there, I'm Zoya Lala  
 
-**Flutter Developer | Mobile App Developer**  
+**Flutter Developer | Passionate about building user-friendly applications**  
 
 Turning ideas into reality with Flutter.  
 I strive to create seamless user experiences and bring a creative approach to every project I work on.  
@@ -42,17 +42,10 @@ Feel free to explore more in my repositories!
 
 ---
 
-## GitHub Stats  
-
-![Zoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoya-lala&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoya-lala&layout=compact&theme=radical)
-
----
-
 ## Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zoya-lala)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoya-lala)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zoya-lala)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoya-lala)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoya.lala45@gmail.com)  
 
 ---
