@@ -33,10 +33,9 @@ I strive to create seamless user experiences and bring a creative approach to ev
 
 Here are a few of my favorite projects:  
 
-- **[Shockwave](#)**: A powerful tool to post a single piece of content on all social media platforms.  
-- **[Music App](https://github.com/zoya-lala/Music-App)**: A sleek music player integrated with the Spotify API.  
-- **Travel Souk**: A travel booking platform offering real-time availability and customized travel recommendations.  
-- **Grocery E-commerce App**: A feature-rich shopping app built with Flutter.  
+- **[Expense Tracker](https://github.com/zoya-lala/Expense-Tracker)**: A powerful tool to post a single piece of content on all social media platforms.  
+- **[Music App](https://github.com/zoya-lala/Music-App)**: An MP3 player, allowing you to play and pause music with a progress bar. 
+- **[Chat App](https://github.com/zoya-lala/Chat)**: Real-time chat app with secure messaging and file sharing.
 
 Feel free to explore more in my repositories!  
 
