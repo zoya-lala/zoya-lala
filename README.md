@@ -1,6 +1,6 @@
 # Hi there, I'm Zoya Lala  
 
-**Flutter Developer | Passionate about building user-friendly applications**  
+**Flutter Developer | Mobile App Developer**  
 
 Turning ideas into reality with Flutter.  
 I strive to create seamless user experiences and bring a creative approach to every project I work on.  
