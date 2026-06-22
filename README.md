@@ -1,15 +1,15 @@
 # Hi there, I'm Zoya Lala  
 
-**Flutter Developer | Mobile App Developer**  
+**Mobile App Developer**  
 
-Turning ideas into reality with Flutter.  
+Turning ideas into reality with Flutter & React Native.  
 I strive to create seamless user experiences and bring a creative approach to every project I work on.  
 
 ---
 
 ## About Me  
 
-- I specialize in **Flutter development** and have experience with **no-code tools** like Webflow and WeWeb.  
+- I specialize in **Flutter development & React Native** and have experience with **no-code tools** like Webflow and WeWeb.  
 - Started my journey with Flutter while working at **ProDT Consulting Services Pvt Ltd**.  
 - Based in India, and always open to collaboration and exciting projects.  
 - Looking for a **job** as well as **freelancing opportunities** to build a diverse portfolio of applications.  
