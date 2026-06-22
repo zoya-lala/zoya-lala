@@ -1,8 +1,8 @@
 # Hi there, I'm Zoya Lala!  
 
-**Mobile App Developer — Flutter, React Native**  
+**Mobile App Developer — Flutter & React Native**  
 
-Turning ideas into reality with Flutter, React Native, and native mobile development.  
+Turning ideas into reality with Flutter & React Native.  
 I strive to create seamless user experiences and bring a creative approach to every project I work on.  
 
 ---
