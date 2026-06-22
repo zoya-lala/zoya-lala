@@ -12,7 +12,7 @@ I strive to create seamless user experiences and bring a creative approach to ev
 - I specialize in **Flutter development & React Native**. I have experience with **no-code tools** like Webflow and WeWeb.  
 - Started my journey with Flutter while working at **ProDT Consulting Services Pvt Ltd**, where I built production-ready features and learned full app lifecycles.  
 - Continued expanding my Flutter and React Native expertise at **CDAC**, working on cross-platform projects and native integrations to improve performance and platform-specific UX.  
-- Based in **Pune, India**, and always open to collaboration and exciting projects.  
+- Based in **Hyderabad, India**, and always open to collaboration and exciting projects.  
 - Looking for a **job** as well as **freelancing opportunities** to build a diverse portfolio of applications.  
 
 ---
