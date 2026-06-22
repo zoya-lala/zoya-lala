@@ -2,7 +2,7 @@
 
 **Mobile App Developer — Flutter & React Native**  
 
-Turning ideas into reality with Flutter & React Native.  
+Turning ideas into reality with Mobile App Development.  
 I strive to create seamless user experiences and bring a creative approach to every project I work on.  
 
 ---
